@@ -193,10 +193,6 @@ a:hover {
     border-color: rgba(0, 0, 0, .3);
 }
 
-.d-bloc .panel,
-.l-bloc {
-    color: rgba(0, 0, 0, .5);
-}
 
 .d-bloc .panel button:hover,
 .l-bloc button:hover {
@@ -640,12 +636,9 @@ a[data-lightbox]:hover img {
 }
 
 h1,
-h2,
-h3,
 h4,
 h5,
 h6,
-p,
 label,
 .btn,
 a {
